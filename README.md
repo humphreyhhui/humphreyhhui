@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm Humphrey! <br/>
 
-<!--
-**humphreyhhui/humphreyhhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>MIT Applied Data Science Certificate Projects</h2>
 
-Here are some ideas to get you started:
+- <b>Project 1</b>
+  - [Project 1]([LINK])
+- <b>Project 2</b>
+  - [Project 2]([LINK])
+- <b>Capstone Project</b>
+  - [Capstone Project]([LINK])
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>freeCodeCamp Relational Database Certificate</h2>
+
+- [Project 1]([LINK])
+- [Project 2]([LINK])
+- [Project 3]([LINK])
+- [Project 4]([LINK])
