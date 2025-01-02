@@ -2,7 +2,7 @@
 
 <h2>MIT Applied Data Science Program</h2>
 
-- [Foodhub Order Analysis](https://github.com/humphreyhhui/Foodhub-MIT))
+- [Foodhub Order Analysis](https://github.com/humphreyhhui/Foodhub-MIT)
 - [Car Dealership Segmentation](https://github.com/humphreyhhui/CarDealership-MIT)
 - [Bank Customer Segmentation](https://github.com/humphreyhhui/BankCustomerSegmentation-MIT)
 - [Marketing Campaign Analysis and Segmentation - Capstone Project](https://github.com/humphreyhhui/Capstone-MIT)
