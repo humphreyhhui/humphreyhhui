@@ -1,15 +1,33 @@
-<h1>Hi, I'm Humphrey! Here are some projects I have worked on.<br/>
+# Hi, I’m Humphrey :)  
+_Master’s in Business Analytics @ UT Austin • Philosophy and Public Affairs @ Claremont McKenna_
 
-<h2>MIT Applied Data Science Program</h2>
+---
 
-- [Foodhub Order Analysis](https://github.com/humphreyhhui/Foodhub-MIT)
-- [Car Dealership Segmentation](https://github.com/humphreyhhui/CarDealership-MIT)
-- [Bank Customer Segmentation](https://github.com/humphreyhhui/BankCustomerSegmentation-MIT)
-- [Marketing Campaign Analysis and Segmentation - Capstone Project](https://github.com/humphreyhhui/Capstone-MIT)
+## UT Austin McCombs — Master’s in Business Analytics
 
-<h2>freeCodeCamp Relational Database Certificate</h2>
+### Finance Projects
 
-- [World Cup Queries](https://github.com/humphreyhhui/World-Cup-FCC)
-- [Salon Booking System](https://github.com/humphreyhhui/Salon-FCC)
-- [Periodic Table](https://github.com/humphreyhhui/Periodic-Table-FCC)
-- [Number Guessing Game](https://github.com/humphreyhhui/Number-Guess-FCC)
+| Project | Description |
+|---|---|
+| **Project 1** | <details><summary>Short summary …</summary> • <space for bullet-point 1>  <br>• <space for bullet-point 2> <br>• <space for bullet-point 3></details> |
+| **Project 2** | <details><summary>Short summary …</summary> • <space for bullet-point 1>  <br>• <space for bullet-point 2> <br>• <space for bullet-point 3></details> |
+| **Project 3** | <details><summary>Short summary …</summary> • <space for bullet-point 1>  <br>• <space for bullet-point 2> <br>• <space for bullet-point 3></details> |
+
+### Data Projects
+
+| Project | Description |
+|---|---|
+| **Project 1** | <details><summary>Short summary …</summary> • <space for bullet-point 1>  <br>• <space for bullet-point 2> <br>• <space for bullet-point 3></details> |
+| **Project 2** | <details><summary>Short summary …</summary> • <space for bullet-point 1>  <br>• <space for bullet-point 2> <br>• <space for bullet-point 3></details> |
+| **Project 3** | <details><summary>Short summary …</summary> • <space for bullet-point 1>  <br>• <space for bullet-point 2> <br>• <space for bullet-point 3></details> |
+
+---
+
+## MIT — Applied Data Science Program
+
+| Project | Description |
+|---|---|
+| **Project 1** | <details><summary>Short summary …</summary> • <space for bullet-point 1>  <br>• <space for bullet-point 2>  <br>• <space for bullet-point 3></details> |
+| **Project 2** | <details><summary>Short summary …</summary> • <space for bullet-point 1>  <br>• <space for bullet-point 2>  <br>• <space for bullet-point 3></details> |
+| **Project 3** | <details><summary>Short summary …</summary> • <space for bullet-point 1>  <br>• <space for bullet-point 2>  <br>• <space for bullet-point 3></details> |
+| **Project 4** | <details><summary>Short summary …</summary> • <space for bullet-point 1>  <br>• <space for bullet-point 2>  <br>• <space for bullet-point 3></details> |
