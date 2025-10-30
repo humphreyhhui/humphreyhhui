@@ -12,9 +12,8 @@ _I love playing soccer, chess, and fantasy sports_
 <p align="left">
   <img src="images/McCombs_Logo.png" width="240" height="240" alt="UT Austin / McCombs Logo" />
 </p>
-<p align="left">
-  <strong>Master's in Business Analytics</strong>
-</p>
+
+## Master's in Business Analytics
 
 ### Data Projects
 
@@ -33,7 +32,7 @@ _I love playing soccer, chess, and fantasy sports_
 <br><br>
 - Compared <strong>five models</strong> using <strong>5-fold cross-validation</strong> on log-transformed prices: Bagging, Random Forest, XGBoost, BART, and Pruned Regression Tree. Selected <strong>Bagging as final model</strong> for its <strong>lowest RMSE</strong> and resistance to overfitting through ensemble averaging while maintaining low bias.
 <br><br>
-- <strong>Tech Stack:</strong> R (tidyverse, rpart, randomForest, BART, xgboost, tidymodels, Metrics)
+- <strong>Tech Stack:</strong> R (tidyverse, tidymodels, rpart, randomForest, BART, xgboost)
 </td>
 </tr>
 <tr>
@@ -76,7 +75,7 @@ _I love playing soccer, chess, and fantasy sports_
 <br><br>
 - Implemented <strong>quadratic optimization</strong> using <strong>CVXPY (OSQP solver)</strong> with enforced covariance matrix symmetry, demonstrating <strong>Ledoit-Wolf's superior out-of-sample performance</strong> through analysis of cumulative returns, portfolio variance, weight stability, and monthly turnover metrics.
 <br><br>
-- <strong>Tech Stack:</strong> pandas, numpy, matplotlib, wrds, scipy, seaborn, scikit-learn, cvxpy
+- <strong>Tech Stack:</strong> pandas, numpy, matplotlib, wrds, scipy, seaborn, cvxpy
 </td>
 </tr>
 <tr>
@@ -98,9 +97,8 @@ _I love playing soccer, chess, and fantasy sports_
 <p align="left">
   <img src="images/MIT_Logo.png" width="150" height="150" alt="MIT Logo" />
 </p>
-<p align="left">
-  <strong>Applied Data Science Program</strong>
-</p>
+
+## Applied Data Science Program
 
 <table>
 <thead>
