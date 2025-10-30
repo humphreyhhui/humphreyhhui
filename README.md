@@ -1,7 +1,11 @@
 # Hi, I'm Humphrey :)  
+
 _Master's in Business Analytics @ UT Austin • Philosophy and Public Affairs @ Claremont McKenna_
+
 _Grew up in Hong Kong and England_
+
 _I love playing soccer, chess, and fantasy sports_
+
 ---
 
 <!-- UT Austin Section -->
